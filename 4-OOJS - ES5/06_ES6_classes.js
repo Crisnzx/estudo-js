@@ -31,8 +31,8 @@ class Person {
 }
 
 
-const cris = new Person('Cristovao', 'Neto', '5-22-2003');
-const bia = new Person('Ana', 'Cavalcanti', '9-5-2003')
+const cris = new Person('Cristovao', 'Neto', '7-11-1980');
+const bia = new Person('Ana', 'Cavalcanti', '7-1-1908')
 
 console.log(cris);
 console.log(cris.greeting());

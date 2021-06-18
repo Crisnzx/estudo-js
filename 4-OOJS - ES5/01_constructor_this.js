@@ -13,8 +13,8 @@ function Person(name, dob) {
     }
 }
 
-const cris = new Person('cris', '5-22-2003');
-const savio = new Person('savio', '11-22-1995');
+const mauricio = new Person('mauricio', '2-17-2011');
+const teobaldo = new Person('teobaldo', '4-12-1988');
 
-console.log(cris.calculateAge());
-console.log(savio.calculateAge());
+console.log(mauricio.calculateAge());
+console.log(teobaldo.calculateAge());
